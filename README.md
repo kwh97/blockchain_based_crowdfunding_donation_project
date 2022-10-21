@@ -39,9 +39,9 @@
 
 <img src="https://user-images.githubusercontent.com/82254874/197122221-f16dfa4b-973e-44d8-9a80-82c238cb4f8a.jpg" width="600" height="400">
 
-<img src="https://user-images.githubusercontent.com/82254874/197122240-0e3d8c75-5c9c-40a6-b22b-00036e9481a4.jpg" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/82254874/197122240-0e3d8c75-5c9c-40a6-b22b-00036e9481a4.jpg" width="400" height="500">
 
-<img src="https://user-images.githubusercontent.com/82254874/197122257-3cbdb527-c858-4842-b507-233096078f35.jpg" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/82254874/197122257-3cbdb527-c858-4842-b507-233096078f35.jpg" width="400" height="500">
 
 <img src="https://user-images.githubusercontent.com/82254874/197122323-97ab4273-3daa-4180-942f-2433cf5980f9.jpg" width="600" height="400">
 
