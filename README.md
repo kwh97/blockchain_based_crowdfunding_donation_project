@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/82254874/173244440-b6417f0c-fa99-435e-b265-6a85eda1b416.png" style="width: 50px">
 <h1>블록체인 기반 기부형 펀딩 플랫폼</h1>
-<strong>📌 블록네이션, 두 번째 프로젝트</strong><br><br><br>
+<strong>📌 블록네이션, 두 번째 프로젝트(22.06)</strong><br><br><br>
 <h3>블록체인과 크라우드 펀딩의 만남, 새로운 기부 문화를 만들다.</h3>
 <h4>&nbsp - 블록체인과 크라우드 펀딩의 결합, 투명성과 접근성을 모두 잡다.</h4><br>
 🔗<strong> 사이트 예시 : </strong>  https://kwh97.github.io/BlockChain_based_funding_donation_platform <br><br>
