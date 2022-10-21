@@ -30,6 +30,8 @@
 <img src="https://user-images.githubusercontent.com/82254874/197122278-ed021ecb-ec29-44de-a109-ac2bbb37afa8.jpg" width="500" height="400">
 <img src="https://user-images.githubusercontent.com/82254874/197122296-9d074e64-bc2c-4d61-8625-6b39c51182fd.jpg" width="600" height="500">
 
+<br><br>
+
 <h2>기부 방법</h2>
 <strong>1. Ganache 실행하여, 가상의 암호화폐 계좌 및 키를 부여받는다.</strong><br><br>
 <strong>2. 홈페이지와 Ganache를 연동하여, 계좌 정보를 홈페이지로 가져온 뒤 잔액조회를 통해 계좌 잔액을 확인한다. </strong><br><br>
@@ -46,3 +48,19 @@
 <img src="https://user-images.githubusercontent.com/82254874/197122323-97ab4273-3daa-4180-942f-2433cf5980f9.jpg" width="600" height="400">
 
 <img src="https://user-images.githubusercontent.com/82254874/197122341-c7460097-ddd8-44b4-a275-1d2d449b9548.jpg" width="300" height="400">
+
+<br><br>
+
+<h2>코드 설명</h2>
+<strong>index.html , home.css - 메인 페이지 구성</strong><br><br>
+<strong>list.html, list.css - 펀딩 목록 페이지 구성</strong><br><br>
+<strong>donation.html , donation.css - 기부페이지 구성</strong><br><br>
+<strong>home.js - 메인 페이지 기능 구현</strong><br><br>
+<strong>list.js - 펀딩 목록 페이지 기능 구현</strong><br><br>
+<strong>donation.js - 암호화폐 송금 및 기부페이지 기능 구현</strong><br><br>
+<strong>web3.min.js - web3j 셋업 코드</strong><br><br><br>
+
+
+<h2>localStorage 사용 예시</h2>
+<img width="424" alt="스크린샷 2022-10-21 오후 3 14 02" src="https://user-images.githubusercontent.com/82254874/197125507-c7f3b6f1-754c-4895-9093-db453f78cfa5.png">
+
