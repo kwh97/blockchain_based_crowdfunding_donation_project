@@ -3,7 +3,7 @@
 <strong>📌 블록네이션, 두 번째 프로젝트(22.06)</strong><br><br><br>
 <h3>블록체인과 크라우드 펀딩의 만남, 새로운 기부 문화를 만들다.</h3>
 <h4>&nbsp - 블록체인과 크라우드 펀딩의 결합, 투명성과 접근성을 모두 잡다.</h4><br>
-🔗<strong> 사이트 예시 : </strong>  https://kwh97.github.io/BlockChain_based_funding_donation_platform <br><br>
+🔗<strong> 사이트 예시 : </strong>  https://kwh97.github.io/blockchain_based_crowdfunding_donation_project <br><br>
 📧<strong> Contact : </strong> zzzang0512@naver.com <br><br>
 🔖<strong> Blog : </strong>https://kwh97.tistory.com
 
