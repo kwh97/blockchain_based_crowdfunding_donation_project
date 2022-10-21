@@ -64,3 +64,12 @@
 <h2>localStorage 사용 예시</h2>
 <img width="424" alt="스크린샷 2022-10-21 오후 3 14 02" src="https://user-images.githubusercontent.com/82254874/197125507-c7f3b6f1-754c-4895-9093-db453f78cfa5.png">
 
+<br><br>
+
+<h3>💡두 번째 프로젝트 회고</h3>
+<strong>&nbsp &nbsp &nbsp다음 프로젝트를 위한 보완점</strong><br><br>
+<span>&nbsp &nbsp - &nbsp 반응형 디자인 구현 필요</span><br>
+<span>&nbsp &nbsp - &nbsp 싱글 페이지 웹 앱(SPA) 구현을 해보고 싶다.</span><br>
+<span>&nbsp &nbsp - &nbsp 펀딩 달성률 업데이트를 localStorage 로 진행 한 것, 실제 서버를 이용할 필요가 있다.</span><br>
+<span>&nbsp &nbsp - &nbsp 지금까지는 Ganache를 이용하여 가상의 암호화폐와 계좌를 부여, 실제 계좌와 암호화폐 적용 필요</span><br>
+
